@@ -1,3 +1,8 @@
+<meta charset="utf-8" />
+# SID:C113181144<BR>
+# Name:郭晉銘<BR>
+EX02
+<HR>
 <?php
 // 指定變數值
     $name = "myName"; // 將字串 "myName" 賦值給變數 $name

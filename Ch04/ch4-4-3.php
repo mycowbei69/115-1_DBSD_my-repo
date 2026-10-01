@@ -1,3 +1,8 @@
+<meta charset="utf-8" />
+# SID:C113181144<BR>
+# Name:郭晉銘<BR>
+EX06
+<HR>
 <?php
 $a = 10;  $b = 10;  // 指定變數值
 ?>

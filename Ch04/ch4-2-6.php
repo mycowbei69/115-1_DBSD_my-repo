@@ -1,3 +1,8 @@
+<meta charset="utf-8" />
+# SID:C113181144<BR>
+# Name:郭晉銘<BR>
+EX04
+<HR>
 <?php
 define("PI", 3.1415926);  // 常數宣告
 define("AREA", "面積");

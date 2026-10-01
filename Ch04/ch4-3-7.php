@@ -1,3 +1,8 @@
+<meta charset="utf-8" />
+# SID:C113181144<BR>
+# Name:郭晉銘<BR>
+EX05
+<HR>
 <?php
 function square(float|int $v): int|float {
     return $v ** 2;
