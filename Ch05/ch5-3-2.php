@@ -1,3 +1,7 @@
+# SID:C113181144 <BR>
+# Name:郭晉銘 <BR>
+# EX03
+<HR>
 <?php
 $result=0;
 $n =0;

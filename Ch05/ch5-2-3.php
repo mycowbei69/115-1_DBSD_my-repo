@@ -1,3 +1,7 @@
+# SID:C113181144 <BR>
+# Name:郭晉銘 <BR>
+# EX01
+<HR>
 <?php
 $grade = 40;
 
