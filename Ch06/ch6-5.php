@@ -1,4 +1,6 @@
 <?php
+
+echo "EX01<br/>";
 include "ch6-5-1.inc";
 include_once("ch6-5-2.inc");
 
