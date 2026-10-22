@@ -2,7 +2,7 @@
 
 include "about_me.php";
 echo "EX02<br/>";
-$scores = array(22,16,30,24);
+$scores = array(22, 16, 30, 24);
 $total = 0;
 
 foreach ($scores as $element) {
@@ -12,4 +12,4 @@ foreach ($scores as $element) {
 }
 echo "Total:" . $total;
 
-print_r($scores) ;
+print_r($scores);
