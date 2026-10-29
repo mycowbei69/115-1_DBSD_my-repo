@@ -1,6 +1,6 @@
 <?php
 include "about_me.php";
-echo "EX04<br/>";
+echo "W08-EX02<br/>";
 $ip=$_SERVER['REMOTE_ADDR'];
 echo "IP ADDRESS:" . $ip . "<br/>";
 $path = $_SERVER['SCRIPT_NAME'];

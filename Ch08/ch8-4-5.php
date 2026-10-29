@@ -30,6 +30,8 @@ if (isset($_GET["Reg"])) {
 ?>
 
 <?php if ($showform) { // 顯示網頁表單
+        require("about_me.php");
+        echo "W08-EX03" . "<br/>";
         ?>
     <form action="ch8-4-5.php" method="get">
         Name: <input type=text name="Name" /><br />
@@ -40,7 +42,7 @@ if (isset($_GET["Reg"])) {
     </form>
     <?php
     } else
-        require_once("about_me.php");
-        echo "W08-EX03" . "<br/>";
-        echo $msg;  // 顯示表單處理結果
+        require("about_me.php");
+    echo "W08-EX03" . "<br/>";
+    echo $msg;  // 顯示表單處理結果
     ?>
